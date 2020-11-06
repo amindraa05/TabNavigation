@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "Tabnavigation"
+rootProject.name = "TabNavigation"
